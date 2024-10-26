@@ -30,6 +30,19 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ![Dashboard_image](https://github.com/user-attachments/assets/b7880cad-b818-4f0b-a64e-859a80962aaa)
 
+## **Sample Insight**
+
+🔍 Gender Distribution: Created a visualization of sales by gender, revealing a significant trend: women are more likely to make purchases compared to men.
+
+📦 Order Status Classification: Categorized orders into Delivered, Refunded, Returned, and Cancelled, highlighting fulfilment efficiency and identifying areas for improvement.
+
+📈 Top Performing States: Identified Maharashtra, Karnataka, and Uttar Pradesh as the top states driving sales, informing targeted marketing strategies.
+
+👥 Demographic Insights: Discovered that adults aged 30-40 contribute the most to sales, offering a clear understanding of customer behaviour and preferences.
+
+🛒 Platform Performance Analysis: Analysed performance metrics of Amazon, Flipkart, and Myntra, revealing these as the top contributing e-Commerce channels.
+
+🔄 Interactive Slicers: Implemented slicers for months, product categories, and e-Commerce platforms, enabling real-time data segmentation and exploration.
 
 ## **Project Insight**
 
