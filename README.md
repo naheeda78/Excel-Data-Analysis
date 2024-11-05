@@ -45,8 +45,10 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 🔄 Interactive Slicers: Implemented slicers for months, product categories, and e-Commerce platforms, enabling real-time data segmentation and exploration.
 
 
-## **Final Conclusion:**
+## Conclusion & Recommendations
 
-To improve sales of Vrinda Store, women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh must be targeted by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+To improve Vrinda Store's sales:
 
+- Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
+- Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
 
